@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="567" height="461" viewBox="0 0 567 461">
+  <defs>
+    <clipPath id="clip-laptop-file">
+      <rect width="567" height="461"/>
+    </clipPath>
+  </defs>
+  <g id="laptop-file" clip-path="url(#clip-laptop-file)">
+    <path id="laptop-file-2" data-name="laptop-file" d="M58.369,0A29.211,29.211,0,0,0,29.184,29.184V131.33H8.755A8.758,8.758,0,0,0,0,140.085a35.03,35.03,0,0,0,35.021,35.021h110.9V131.33H58.369V29.184H204.291V43.777h29.184V29.184A29.211,29.211,0,0,0,204.291,0ZM233.475,58.369H182.4a21.894,21.894,0,0,0-21.888,21.888v131.33A21.894,21.894,0,0,0,182.4,233.475h87.553a21.894,21.894,0,0,0,21.888-21.888V116.738H248.068a14.577,14.577,0,0,1-14.592-14.592Zm14.592,0v43.777h43.777Z" transform="translate(128.075 113.66)" fill="#3658e2"/>
+  </g>
+</svg>
